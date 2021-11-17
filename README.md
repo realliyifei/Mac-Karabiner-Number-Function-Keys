@@ -6,7 +6,7 @@ Map fn + number keys to their corresponding function keys or media control keys
 
 ## Prerequisite: Karabiner
 
-![karabiner-elements-logo](https://static.macupdate.com/products/25141/m/karabiner-elements-logo.png?v=1593415409)
+<img src="https://karabiner-elements.pqrs.org/images/logo.png" width="100" height="100">
 
 **Download Link:** <https://pqrs.org/osx/karabiner/>
 
