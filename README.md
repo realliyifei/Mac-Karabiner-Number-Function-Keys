@@ -1,6 +1,6 @@
 # Mac Karabiner Number Function Keys
 
-Map fn + number keys to their corresponding function keys or media control keys (thanks to touchbar)
+Map fn + number keys to their corresponding function keys or media control keys (thanks to touch bar)
 
 ---
 
